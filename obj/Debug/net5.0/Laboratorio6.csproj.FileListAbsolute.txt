@@ -1,0 +1,16 @@
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\bin\Debug\net5.0\Laboratorio6.exe
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\bin\Debug\net5.0\Laboratorio6.deps.json
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\bin\Debug\net5.0\Laboratorio6.runtimeconfig.json
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\bin\Debug\net5.0\Laboratorio6.runtimeconfig.dev.json
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\bin\Debug\net5.0\Laboratorio6.dll
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\bin\Debug\net5.0\ref\Laboratorio6.dll
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\bin\Debug\net5.0\Laboratorio6.pdb
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\obj\Debug\net5.0\Laboratorio6.csproj.AssemblyReference.cache
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\obj\Debug\net5.0\Laboratorio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\obj\Debug\net5.0\Laboratorio6.AssemblyInfoInputs.cache
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\obj\Debug\net5.0\Laboratorio6.AssemblyInfo.cs
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\obj\Debug\net5.0\Laboratorio6.csproj.CoreCompileInputs.cache
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\obj\Debug\net5.0\Laboratorio6.dll
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\obj\Debug\net5.0\ref\Laboratorio6.dll
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\obj\Debug\net5.0\Laboratorio6.pdb
+C:\Users\lmendeca\Documents\Treinamento.NET\Trilha .NET\Laboratorio6\obj\Debug\net5.0\Laboratorio6.genruntimeconfig.cache
