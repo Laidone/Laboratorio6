@@ -17,9 +17,13 @@ namespace Laboratorio6
         {
             dataAneversario = d;
         }
-         public override string Id
+          public override string Id
         {
-            get { return ToString() + " (CP)"+
+            get {return this.Titular + "(CP)";}
+        }
+          public override string ToString()
+        {
+             return base.ToString() + " (CP)"+
             "Data de aniversario: " + dataAneversario +
             "Público da conta: " + publicodaconta +
              "\nTipo de conta: " + tipo +
@@ -28,7 +32,7 @@ namespace Laboratorio6
             "\nEssa conta não tem taxa de juros" +
             "\nSaldo atual: " + Saldo + 
             "\nQuantidade de saque: " + base.saque +
-            "\nQuantidade de depósito: " + base.deposito;}
+            "\nQuantidade de depósito: " + base.deposito + "\n";
         }
     }
 }

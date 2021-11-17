@@ -33,7 +33,7 @@ namespace Laboratorio6
             "\nEssa conta não tem taxa de juros" +
             "\nSaldo atual: " + Saldo + 
             "\nQuantidade de saque: " + base.saque +
-            "\nQuantidade de depósito: " + base.deposito;
+            "\nQuantidade de depósito: " + base.deposito + "\n";
         }
     }
 }
